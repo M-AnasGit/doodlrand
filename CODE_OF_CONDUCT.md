@@ -1,4 +1,4 @@
-# **Contributing to DoodlRand **  
+# Contributing to DoodlRand
 
 Thank you for considering contributing to **DoodlRand**! We welcome all contributions, from bug reports and feature requests to code improvements and documentation updates. 🚀  
 
