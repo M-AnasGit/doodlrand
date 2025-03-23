@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/M-AnasGit/doodlrand">
-    <img src="dekstop-icon.png" alt="Logo" width="80" height="80">
+    <img src="desktop-icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">DoodlRand</h3>
