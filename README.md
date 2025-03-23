@@ -1,9 +1,21 @@
 <a id="readme-top"></a>
 
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
+[stars-shield]: https://img.shields.io/github/stars/M-AnasGit/doodlrand.svg?style=for-the-badge
+[stars-url]: https://github.com/M-AnasGit/doodlrand/stargazers
+
+[forks-shield]: https://img.shields.io/github/forks/M-AnasGit/doodlrand.svg?style=for-the-badge
+[forks-url]: https://github.com/M-AnasGit/doodlrand/network/members
+
+[issues-shield]: https://img.shields.io/github/issues/M-AnasGit/doodlrand.svg?style=for-the-badge
+[issues-url]: https://github.com/M-AnasGit/doodlrand/issues
+
+[license-shield]: https://img.shields.io/github/license/M-AnasGit/doodlrand.svg?style=for-the-badge
+[license-url]: https://github.com/M-AnasGit/doodlrand/blob/main/LICENSE
+
+  [![Forks][forks-shield]][forks-url]
+  [![Stargazers][stars-shield]][stars-url]
+  [![Issues][issues-shield]][issues-url]
+  [![Unlicense License][license-shield]][license-url]
 
 <br />
 <div align="center">
@@ -58,7 +70,9 @@ DoodlRand is a **decentralized pixel art canvas** where users can collaborativel
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![React][React.js]][React-url]
+* ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+* ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+* ![Algorand](https://img.shields.io/badge/Algorand-000000?style=for-the-badge&logo=algorand&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
